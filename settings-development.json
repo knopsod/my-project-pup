@@ -10,24 +10,24 @@
     "MAIL_URL": "",
     "OAuth": {
       "facebook": {
-        "enabled": true,
-        "appId": "",
-        "secret": "",
+        "enabled": false,
+        "appId": "185326758973031",
+        "secret": "3e2d3eedf92e6bdb69626acb05f71d25",
         "loginStyle": "popup"
       },
       "google": {
-        "enabled": true,
-        "clientId": "",
-        "secret": "",
+        "enabled": false,
+        "clientId": "736186307205-jao5ped81ndescc8c1orpcmjkt2ate4h.apps.googleusercontent.com",
+        "secret": "WcentBDsLza9kLIHmJe9q9Dv",
         "loginStyle": "popup"
       },
       "github": {
-        "enabled": true,
-        "clientId": "",
-        "secret": "",
+        "enabled": false,
+        "clientId": "5eb0cca26bfea05b8b95",
+        "secret": "c837d359093d07c6c9fed752106a52d92391024b",
         "loginStyle": "popup"
       }
     },
-    "supportEmail": "Customer Support <support@product.com>"
+    "supportEmail": "Customer Support <knopsod@gmail.com>"
   }
 }
